@@ -7,9 +7,9 @@
 
 
 <div align="center">
-  - 🌱 I’m currently learning Software Engineering Fundamentals<br>
+  - 🌱 Currently learning Software Engineering Fundamentals<br>
   - 💬 Ask me about **Python, HTML, CSS, FLASK, OOP, PANDAS Figma<br>
-  - 🔭 I’m working on improving my skills <br>
+  - 🔭 Working on improving my skills <br>
 </div>
 
 
