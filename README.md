@@ -56,7 +56,7 @@
 <hr style="border: none; border-top: 1px solid black;">
 <br>
 <div align="center">
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susmitabiswasador&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=2f80ed&icon_color=79ff97" alt="susmitabiswasador" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susmitabiswasador&show_icons=true&locale=en&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=2f80ed&icon_color=79ff97" alt="susmitabiswasador" /></p>
 
