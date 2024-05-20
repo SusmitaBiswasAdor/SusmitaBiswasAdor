@@ -1,67 +1,60 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=susmitabiswasador&label=Profile%20views&color=0e75b6&style=flat" />
 <h1 align="center">
-  <span style="display: inline-block; animation: wave 2s infinite;">👋</span>
-  Hi there,
-  <span style="animation: typing 3s steps(22), blink-caret .75s step-end infinite;">I'm Susmita Biswas</span>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Robot=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susmita+Biswas!;" />
 </h1>
+
 <h3 align="center">Finding my way into the software engineering world</h3>
 
 
 <div align="center">
-  - 🌱 Currently learning Software Engineering Fundamentals<br>
-  - 💬 Ask me about **Python, HTML, CSS, FLASK, OOP, PANDAS Figma<br>
-  - 🔭 Working on improving my coding skills <br>
+   🌱 Currently learning Software Engineering Fundamentals<br>
+  
+   💬 Ask me about **Python, HTML, CSS, FLASK, OOP, PANDAS Figma<br>
+  
+   🔭 Working on improving my coding skills <br>
+  
+</div>
+
+<div align="center"> 
+  <a href="susmitaador@gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/susmita-biswas-01a5b7267" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/SusmitaBiswasAdor" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 
 <hr style="border: none; border-top: 1px solid black;">
-<div>
-<h2 align="center"><strong></strong>Languages_Frameworks_Tools</strong></h2>
-</div>
-<br>
-<div>
-<p align="center">
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /><br>
+</div>
+
+<hr style="border: none; border-top: 1px solid black;">
+<br>
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=susmitabiswasador&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=2f80ed&icon_color=79ff97" alt="susmitabiswasador" />
 </p>
 
-</div>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=susmitabiswasador&show_icons=true&locale=en&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=2f80ed&icon_color=79ff97" alt="susmitabiswasador" />
+</p>
 
-<hr style="border: none; border-top: 1px solid black;">
-<br>
-<div align="center">
+### 🔥 GitHub Streak
+<p align="center">
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaBiswasAdor&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susmitabiswasador&show_icons=true&locale=en&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=2f80ed&icon_color=79ff97" alt="susmitabiswasador" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susmitabiswasador&theme=dark&background=0d1117&stroke=ffffff&ring=2f80ed&fire=79ff97&currStreakLabel=79ff97&sideLabels=2f80ed" alt="susmitabiswasador" /></p>
-</div>
 
 
 
