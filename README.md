@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=susmitabiswasador&label=Profile%20views&color=0e75b6&style=flat" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susmita+Biswas!;" />
+<h1 align="center"> <strong>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susmita+Biswas!;" /> </strong>
 </h1>
 
 <h3 align="center">Finding my way into the software engineering world</h3>
@@ -67,6 +67,12 @@
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaBiswasAdor&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 </p>
+
+<div align="center">
+<h3 align="center"> <strong>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+Visiting!!;" /> </strong>
+</h3>
+</div>
 
 
 
