@@ -60,7 +60,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaBiswasAdor&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaBiswasAdor&count_private=true&theme=dark&&bg_color=0d1117&text_color=ffffff&title_color=2f80ed&icon_color=79ff97&border_radius=10" alt="streak stats"/>
 </p>
 
 
