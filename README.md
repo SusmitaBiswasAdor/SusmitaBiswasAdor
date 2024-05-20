@@ -1,17 +1,18 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=susmitabiswasador&label=Profile%20views&color=0e75b6&style=flat" />
-<h1 align="center"> <strong>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susmita+Biswas!;" /> </strong>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=F7B32B&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Susmita+Biswas!;" />
 </h1>
 
-<h3 align="center">Finding my way into the software engineering world</h3>
+
+<h3 align="center">✨Finding my way into the software engineering world✨</h3>
 
 
 
 <div align="center">
  
- 🔭 I’m currently working on **This Profile**
+ 💻 Currently working on **This Profile!!**
  
- 🌱 I’m currently learning **Javascripts and Software Engineering Fundamentals**
+ 🌱 Currently learning **Javascripts and Software Engineering Fundamentals**
 
 💬 Ask me about **Python, Flask... or anything [here](https://github.com/SusmitaBiswasAdor)**
 
@@ -52,25 +53,27 @@
 <br>
 📊 Most Used Languages
 <p align="center">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=susmitabiswasador&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=susmitabiswasador&langs_count=8&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=F7B32B&text_color=ffffff&bg_color=0d1117"" alt="top langs" />
  
 </p>
 
 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susmitabiswasador&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="susmitabiswasador" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susmitabiswasador&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10&title_color=F7B32B&text_color=ffffff&bg_color=0d1117"" alt="susmitabiswasador" />
 </p>
 
 🔥 GitHub Streak
 <p align="center">
 
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaBiswasAdor&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaBiswasAdor&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
 
 </p>
+<img align="left" src="https://komarev.com/ghpvc/?username=susmitabiswasador&label=Profile%20views&color=F7B32B&style=flat" />
+<br>
 
 <div align="center">
 <h3 align="center"> <strong>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+Visiting!!;" /> </strong>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=F7B32B&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Thank+you+for+Visiting!!;" /> </strong>
 </h3>
 </div>
 
