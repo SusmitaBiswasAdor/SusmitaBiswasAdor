@@ -12,7 +12,7 @@
  
  💻 Currently working on **This Profile!! Almost done**
  
- 🌱 Currently learning **Javascripts and Software Engineering Fundamentals**
+ 🌱 Currently learning **Java and Software Engineering Fundamentals**
 
 💬 Ask me about **Python, Flask... or anything [here](https://github.com/SusmitaBiswasAdor)**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,flask" /><br>
 </div>
 
 <div align="center">
