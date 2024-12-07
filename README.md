@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 💻 Currently working on **This Profile!! Almost done**
+ 💻 Currently working on **A New Project!! Ongoing!!!**
  
  🌱 Currently learning **Java and Software Engineering Fundamentals**
 
