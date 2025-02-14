@@ -12,7 +12,7 @@
  
  💻 Currently working on **A New Project!! Ongoing!!!**
  
- 🌱 Currently learning **Java and Software Engineering Fundamentals**
+ 🌱 Currently learning **C and Operating System!**
 
 💬 Ask me about **Python, Flask... or anything [here](https://github.com/SusmitaBiswasAdor)**
 
